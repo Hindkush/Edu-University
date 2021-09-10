@@ -24,7 +24,7 @@ To run the site on your local machine
 3. Open .html file in your browser.
 4. Alternatively you can click on the following [Site Link](https://hindkush.github.io/Edu-University/) to view.
 ## Screenshots
-![2](https://user-images.githubusercontent.com/67094162/132891529-172f0d0f-8437-461f-bfd9-468ac03c8eb3.png)
-![3](https://user-images.githubusercontent.com/67094162/132891537-43448896-6dcb-42f1-8012-90aa8db38dec.png)
-![4](https://user-images.githubusercontent.com/67094162/132891540-751aa45e-15be-49db-bba3-3305a55462d6.png)
-![Annotation 2021-09-10 223612](https://user-images.githubusercontent.com/67094162/132891551-d174b0da-2c44-4b7f-afb0-066d7e1d5c67.png)
+![Annotation 2021-09-10 223612](https://user-images.githubusercontent.com/67094162/132891669-0e6df1eb-0c2f-4f6b-b0db-02ccdb120c71.png)
+![2](https://user-images.githubusercontent.com/67094162/132891721-1b3d6d2a-cb6b-4463-85b0-bd79dfaa2844.png)
+![3](https://user-images.githubusercontent.com/67094162/132891756-e7703de8-4e76-4ee4-a9ec-6f9c8b68917c.png)
+![4](https://user-images.githubusercontent.com/67094162/132891763-df63beac-f58f-453e-a3be-64cdd4269f25.png)

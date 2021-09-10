@@ -5,7 +5,7 @@
 * [Requirements](#Requirements)
 * [Techincal Information](#Technical-Information)
 ## About
-A Edu-University website built using HTML, CSS3, Bootstrap and little bit of JavaScript for toggling the navigation bar. Tried to enhance the UI by giving it a premium look and included all possibilities of sections that a website can have.
+A Edu-University website built using HTML5, CSS3, Bootstrap and little bit of JavaScript for toggling the navigation bar. Tried to enhance the UI by giving it a premium look and included all possibilities of sections that a website can have.
 ###### Do have a look at NAVIGATION BAR that has links to different pages like COURSES, CONTACT, etc.
 ## Features
 * Hover effects to the icons.

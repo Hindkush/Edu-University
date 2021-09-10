@@ -11,7 +11,7 @@ A Edu-University website built using HTML5, CSS3, Bootstrap and little bit of Ja
 * Hover effects to the icons.
 * Navigation bar Animation.
 * Used font awesome icons.
-* Used Carousel for sliding images.
+* Used Carousel Belt for sliding images.
 ## Requirements
 1. HTML
 2. CSS
